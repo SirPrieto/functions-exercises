@@ -1,4 +1,6 @@
-// Your code goes here:
+function renderPerson(name, dob, color, age, genre) {
+  return `${name} is a ${age} years old ${genre} born in ${dob} with ${color} eyes`;
+}
 
 
 
